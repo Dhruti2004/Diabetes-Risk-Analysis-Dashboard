@@ -36,10 +36,10 @@ This project presents a **data visualization dashboard** that helps users unders
 ```
 Diabetes-Risk-Analysis/
 │
-├── Diabetes Dashboard.pbix
-├── diabetes_dataset.csv
-├── dashboard_preview.png
-└── README.md
+├── Diabetes Analysis.jpg
+├── Diabetes Analysis.png
+├── README.md
+└── diabetes.csv
 ```
 
 ---
