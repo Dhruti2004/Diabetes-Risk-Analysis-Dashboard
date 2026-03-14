@@ -46,20 +46,18 @@ Diabetes-Risk-Analysis/
 
 # 📈 Dashboard Features
 
-✔ Diabetes vs Non-Diabetes distribution
-✔ Age-wise diabetes analysis
-✔ Glucose level visualization
-✔ BMI impact on diabetes
-✔ Interactive filters and slicers
-✔ Key performance indicators (KPIs)
+✔ **Diabetes vs Non-Diabetes distribution**  
+✔ **Age-wise diabetes analysis**  
+✔ **Glucose level visualization**  
+✔ **BMI impact on diabetes**  
+✔ **Interactive filters and slicers**  
+✔ **Key performance indicators (KPIs)**
 
 ---
 
 # 🖼️ Dashboard Preview
 
-![Dashboard Preview](Diabetes Analysis.jpg)
-
-*(Insert a screenshot of your Power BI dashboard here.)*
+<img src="Diabetes Analysis.jpg" width="800">
 
 ---
 
