@@ -57,7 +57,7 @@ Diabetes-Risk-Analysis/
 
 # 🖼️ Dashboard Preview
 
-![Dashboard Preview](Diabetes Analysis_page-0001.jpg)
+![Dashboard Preview](Diabetes Analysis.jpg)
 
 *(Insert a screenshot of your Power BI dashboard here.)*
 
